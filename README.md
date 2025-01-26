@@ -1,4 +1,5 @@
 Todo App ✅
+
 A simple yet powerful Todo App built with React that allows users to manage tasks efficiently. This app demonstrates full CRUD (Create, Read, Update, Delete) functionality, enabling users to organize their daily tasks with ease.
 
 Features ✨
