@@ -1,0 +1,14 @@
+import TodoList from "./todo";
+import './App.css'
+
+function App() {
+  
+
+  return (
+    <>
+      <TodoList/>
+    </>
+  )
+}
+
+export default App
