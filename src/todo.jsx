@@ -46,12 +46,7 @@ let markAllDone = () =>{
             <h2>TO-DO LIST</h2>
             <input type="text" placeholder="Enter your task" value={newTodo} onChange={updateTodoValue}/>
             <br></br>
-            <br></br>
             <button onClick={addNewTask}>ADD TASK</button>
-            <br></br>
-            <br></br>
-            <br></br>
-            <hr></hr>
             <h2>TASKS TODO</h2>
             <ul>
                 {
@@ -67,7 +62,6 @@ let markAllDone = () =>{
                     ))
                 }
             </ul>
-            <br></br>
             <br></br>
             <button onClick={markAllDone}>Mark All as Done!</button>
 
